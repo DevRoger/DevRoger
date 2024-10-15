@@ -9,7 +9,6 @@
 
 - 📫 Cómo contactarme: Envíame un email a ralonsop2324@politecnics.barcelona o conécta conmigo en LinkedIn: https://www.linkedin.com/in/roger-alonso-700288295/ ✉️
 
-- 😄 Pronombres: Él/Lo
 
 ⚡ Dato curioso: Soy un gran fan de las peliculas de ciencia ficción y me encanta explorar nuevos lenguajes de programación en mi tiempo libre.
 
