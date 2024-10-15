@@ -1,16 +1,18 @@
-## Hi there 👋
+## ¡Hola! Soy Roger
+- 🔭 Estoy trabajando en: Proyectos a nivel personal para aprender.
 
-<!--
-**DevRoger/DevRoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Actualmente estoy aprendiendo: Kotlin en Android Studio para hacer aplicaciones móviles y C# con el framework .NET 4.7.2.
 
-Here are some ideas to get you started:
+- 👯 Me encantaría colaborar en: Proyectos en equipo que hago en mis estudios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Pregúntame sobre: Desarrollo de aplicaciones, buenas prácticas de programación y cómo empezar un proyecto personal desde cero.
+
+- 📫 Cómo contactarme: Envíame un email a ralonsop2324@politecnics.barcelona o conécta conmigo en LinkedIn: https://www.linkedin.com/in/roger-alonso-700288295/ ✉️
+
+- 😄 Pronombres: Él/Lo
+
+⚡ Dato curioso: Soy un gran fan de las peliculas de ciencia ficción y me encanta explorar nuevos lenguajes de programación en mi tiempo libre.
+
+¡No dudes en contactarme si tienes alguna pregunta!
+
+https://sites.google.com/politecnics.barcelona/rogeralonsopastor
